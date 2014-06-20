@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-zend-teste1",
+    "description": "Description of project phpZendTeste1.",
+    "authors": [
+        {
+            "name": "junior",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+
+    }
+}
